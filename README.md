@@ -54,11 +54,11 @@ Ce projet a été réalisé dans le cadre de la **SAE 302** et consiste à déve
 ## 2. 🏗️ Architecture
 Le projet est divisé en plusieurs classes pour assurer une meilleure modularité et facilité de maintenance.
 ### 🛠️ Composants principaux
-- `**📩 Msg**` : Manipulation des messages (contenu, date, expéditeur, destinataire).
-- `**👤 Session**` : Gestion des informations utilisateur côté serveur (amis, messages en attente).
-- `**📡 Chaussette**` : Interface de communication pour l'envoi et la réception de messages via UDP.
-- `**🖥️ ChaussetteClient**` : Surcouche simplifiant les interactions côté client.
-- `**🔄 ChaussetteEngine**` : Gestion des messages et des amis.
+- `📩 Msg` : Manipulation des messages (contenu, date, expéditeur, destinataire).
+- `👤 Session` : Gestion des informations utilisateur côté serveur (amis, messages en attente).
+- `📡 Chaussette` : Interface de communication pour l'envoi et la réception de messages via UDP.
+- `🖥️ ChaussetteClient` : Surcouche simplifiant les interactions côté client.
+- `🔄 ChaussetteEngine` : Gestion des messages et des amis.
 ### 📊 Diagramme des relations entre classes
 ```
 Server
@@ -74,11 +74,11 @@ Client
 ## 2. 🏗️ Architecture
 Le projet est divisé en plusieurs classes pour assurer une meilleure modularité et facilité de maintenance.
 ### 🛠️ Composants principaux
-- `**📩 Msg**` : Manipulation des messages (contenu, date, expéditeur, destinataire).
-- `**👤 Session**` : Gestion des informations utilisateur côté serveur (amis, messages en attente).
-- `**📡 Chaussette**` : Interface de communication pour l'envoi et la réception de messages via UDP.
-- `**🖥️ ChaussetteClient**` : Surcouche simplifiant les interactions côté client.
-- `**🔄 ChaussetteEngine**` : Gestion des messages et des amis.
+- `📩 Msg` : Manipulation des messages (contenu, date, expéditeur, destinataire).
+- `👤 Session` : Gestion des informations utilisateur côté serveur (amis, messages en attente).
+- `📡 Chaussette` : Interface de communication pour l'envoi et la réception de messages via UDP.
+- `🖥️ ChaussetteClient` : Surcouche simplifiant les interactions côté client.
+- `🔄 ChaussetteEngine` : Gestion des messages et des amis.
 ### 📊 Diagramme des relations entre classes
 ```
 Server
