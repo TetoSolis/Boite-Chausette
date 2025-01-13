@@ -8,11 +8,11 @@ Ce projet a été réalisé dans le cadre de la **SAE 302** et consiste à déve
 
 ***
 ## 🚀 Fonctionnalités
-- **🔐 Authentification utilisateur** avec login et mot de passe.
-- **💬 Messagerie en temps réel** entre utilisateurs.
-- **👥 Gestion des contacts** (ajout et suppression d'amis via un système de demande/validation).
-- **🗄️ Stockage des messages en attente** sur le serveur.
-- **📜 Historique des conversations** (les 10 derniers messages par contact stockés sur le client).
+- 🔐 **Authentification utilisateur** avec login et mot de passe.
+- 💬 **Messagerie en temps réel** entre utilisateurs.
+- 👥 **Gestion des contacts** (ajout et suppression d'amis via un système de demande/validation).
+- 🗄️ **Stockage des messages en attente** sur le serveur.
+- 📜 **Historique des conversations** (les 10 derniers messages par contact stockés sur le client).
 
 ***
 ## 📌 Table des Matières
